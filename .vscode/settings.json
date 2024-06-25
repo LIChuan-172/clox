@@ -1,3 +1,15 @@
 {
-  "C_Cpp.default.compilerPath": "/usr/bin/gcc"
+  "C_Cpp.default.compilerPath": "/usr/bin/gcc",
+  "files.associations": {
+    "*.Idl": "idl",
+    "*.tsrc": "cpp",
+    "*.xml": "html",
+    "*.CATNls": "plaintext",
+    "*.CATRsc": "plaintext",
+    "*.dico": "plaintext",
+    "*.iid": "plaintext",
+    "*.css": "css",
+    "*.rs": "rust",
+    "chunk.h": "c"
+  }
 }
