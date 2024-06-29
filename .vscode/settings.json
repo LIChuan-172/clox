@@ -11,6 +11,8 @@
     "*.css": "css",
     "*.rs": "rust",
     "vm.h": "c",
-    "chunk.h": "c"
+    "chunk.h": "c",
+    "scanner.h": "c",
+    "compiler.h": "c"
   }
 }
