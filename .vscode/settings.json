@@ -13,6 +13,9 @@
     "vm.h": "c",
     "chunk.h": "c",
     "scanner.h": "c",
-    "compiler.h": "c"
+    "compiler.h": "c",
+    "common.h": "c",
+    "stdint.h": "c",
+    "stdint-gcc.h": "c"
   }
 }
